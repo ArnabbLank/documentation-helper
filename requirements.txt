@@ -1,0 +1,16 @@
+os
+langchain
+langchain-ollama
+langchain-pinecone
+langchainhub
+python-dotenv
+langchain_community
+langchain_openai
+sentence_transformers
+faiss-cpu
+pypdf
+streamlit
+sentence_transformers
+beautifulsoup4
+streamlit_chat
+Typing
